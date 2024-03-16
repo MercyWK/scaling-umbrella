@@ -1,0 +1,71 @@
+h1{
+    text-align: center;
+    text-size-adjust: 24;
+    padding-top: 0%;
+    
+}
+body {
+    float: left;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: hwb(138 11% 35% / 0.871); /* or rgba(35, 206, 180, 0.87) */
+    background-image: url(multimedia/Nairobi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+button {
+    background-color: red; 
+    height: 25px;
+    width: auto;
+}
+
+footer {
+    text-align: justify; 
+}
+aside,
+header {
+    padding: 10px;
+    text-align: center;
+    background-color: aqua;
+    color: burlywood;
+}
+
+.container {
+    display: flex;
+    align-items: flex-start;
+}
+
+.content {
+    flex: 1;
+    margin-right: 20px; 
+}
+
+.media {
+    float:right;
+    width: 100px;
+    max-height: fit-content;
+}
+img{
+    border-radius: 80px;
+    margin-left: 10px;
+    padding-bottom: 8px;
+    padding-top: 30px;
+}
+video{
+    float: centre;
+}
