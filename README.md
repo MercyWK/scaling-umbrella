@@ -4,7 +4,7 @@ Exploring Nairobi National Park
 This webpage is designed to showcase various multimedia elements related to Nairobi national park.
 ## Multimedia Elements
 ### Images
-- Included three images relevant to Nairobi national park.
+- Included eight images relevant to Nairobi national park.
 ### Audio
 - Embedded an audio file with nature sounds to complement the visual experience.
 ### Video
